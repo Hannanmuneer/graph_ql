@@ -1,7 +1,7 @@
 function queryResolver() {
     return {
         name: "hannan",
-        age: 25,
+        age: 21,
         email: "hannan@example.com"
     };
 }
